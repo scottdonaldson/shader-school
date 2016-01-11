@@ -6,7 +6,8 @@ void sideLengths(
 
 
   //TODO: Calculate side lengths here
-
+  opposite = sin(radians(angleInDegrees)) * hypotenuse;
+  adjacent = cos(radians(angleInDegrees)) * hypotenuse;
 }
 
 //Do not change this line
