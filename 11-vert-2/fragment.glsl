@@ -1,6 +1,5 @@
 precision highp float;
 
-varying vec4 fragPosition;
 varying vec3 fragColor;
 
 void main() {
